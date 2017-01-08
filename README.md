@@ -1,4 +1,5 @@
 # OpenDataDay2017
+![International Open Data Day Image](https://raw.githubusercontent.com/codefortulsa/OpenDataDay2017/master/International-Open-Data-Hackathon.jpg)
 
 ## Saturday, March 4 @ (probably) [36°N](http://36degreesnorth.co/)
 ### [Click here to RSVP](https://www.eventbrite.com/e/open-data-day-2017-tickets-31006884426)
