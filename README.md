@@ -37,7 +37,7 @@ Be sure to check out the [City of Tulsa Open Data Portal](https://www.cityoftuls
 [File an issue](https://github.com/codefortulsa/OpenDataDay2017/issues/new) if you're interested!
 
 ### [Punctuil](https://github.com/codefortulsa/punctuil) reboot
-#### Lead: ?
+#### Lead: [Ian Riley](https://github.com/ttowncompiled)
 [File an issue](https://github.com/codefortulsa/OpenDataDay2017/issues/new) if you're interested!
 
 ### Citygram
