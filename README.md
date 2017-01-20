@@ -43,7 +43,7 @@ Be sure to check out the [City of Tulsa Open Data Portal](https://www.cityoftuls
 #### Lead: [Philip Kin](https://github.com/pipakin)
 [File an issue](https://github.com/codefortulsa/OpenDataDay2017/issues/new) for Philip if you're interested!
 
-### OpenBudgeTulsa(https://github.com/codefortulsa/openbudgettulsa)
+### [OpenBudgeTulsa](https://github.com/codefortulsa/openbudgettulsa)
 #### City of Tulsa budget visualization in D3.js. 
 #### Lead: Brad Markel
 [File an issue](https://github.com/codefortulsa/OpenDataDay2017/issues/new) for Brad if you're interested!
