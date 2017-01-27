@@ -2,17 +2,14 @@
 ![International Open Data Day Image](https://raw.githubusercontent.com/codefortulsa/OpenDataDay2017/master/International-Open-Data-Hackathon.jpg)
 
 ## Friday, March 3 @ [36°N](http://36degreesnorth.co/)
-
 ### Agenda
 #### 12pm - 1pm: Lunch & Learn with Lou Huang
-#### 1pm - 5pm: Project work
-#### 5pm: Get Started with projects: Meetup, Slack, GitHub
-#### 6pm: Happy Hour with Lou Huang (location TBA)
+#### 1pm - 5pm: Coworking @ 36°N
+#### 5pm - 6pm: Happy Hour with Lou Huang (location TBA)
+#### 6pm - 8:30pm: Intro to GitHub Workshop
 
-
-## Saturday, March 4 @ (most likely) [36°N](http://36degreesnorth.co/)
+## Saturday, March 4 @ [36°N](http://36degreesnorth.co/)
 ### [Click here to RSVP](https://www.eventbrite.com/e/open-data-day-2017-tickets-31006884426)
-Welcome to Code for Tulsa Open Data Day 2017.
 
 ### Agenda
 #### 8:00 - 9:30am: Breakfast
