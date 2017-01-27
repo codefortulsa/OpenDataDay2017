@@ -1,5 +1,6 @@
 # OpenDataDay2017
 ![International Open Data Day Image](https://raw.githubusercontent.com/codefortulsa/OpenDataDay2017/master/International-Open-Data-Hackathon.jpg)
+## [Click here to RSVP](https://www.eventbrite.com/e/open-data-day-2017-tickets-31006884426)
 
 ## Friday, March 3 @ [36°N](http://36degreesnorth.co/)
 ### Agenda
@@ -9,7 +10,6 @@
 #### 6pm - 8:30pm: Intro to GitHub Workshop
 
 ## Saturday, March 4 @ [36°N](http://36degreesnorth.co/)
-### [Click here to RSVP](https://www.eventbrite.com/e/open-data-day-2017-tickets-31006884426)
 
 ### Agenda
 #### 8:00 - 9:30am: Breakfast
