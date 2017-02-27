@@ -50,11 +50,6 @@ Be sure to check out the [City of Tulsa Open Data Portal](https://www.cityoftuls
 #### Lead: ?
 [File an issue](https://github.com/codefortulsa/OpenDataDay2017/issues/new) if you're interested!
 
-### [Punctuil](https://github.com/codefortulsa/punctuil) reboot
-#### Tulsa City Council meeting reminders based on topic. 
-#### Lead: [Ian Riley](https://github.com/ttowncompiled)
-[File an issue](https://github.com/codefortulsa/OpenDataDay2017/issues/new) if you're interested!
-
 ### Citygram
 #### Lead: [John Dungan](https://github.com/jdungan/)
 [File an issue](https://github.com/codefortulsa/OpenDataDay2017/issues/new) for John if you're interested!
